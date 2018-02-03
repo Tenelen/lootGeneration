@@ -1,8 +1,9 @@
 ### Loot Generator
 ==========
+
 This was a simple test project for teaching the GitHub workflow.
 
-##Goals of the Test Program - Loot Generator:
+Goals of the Test Program - Loot Generator:
 * Create an item that rolls a 'rarity.'
 * The items rarity determines how many modifiers the item will have (1-6).
 * Pull random key modifiers from a sample dictionary (mod_pool) and ensure
@@ -11,7 +12,7 @@ This was a simple test project for teaching the GitHub workflow.
 * Display the item in a user-friendly output.
 
 
-##Future Additions:
+Future Additions:
 * Create a character, giving them stats as well (Static, and then eventually
     random rolls, or user-input)
 * Allow the items from the Loot Generator to be equipped, and uneqipped
